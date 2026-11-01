@@ -63,11 +63,11 @@
   <ItemGroup>
     <Reference Include="HIDLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Release\HIDLibrary.dll</HintPath>
+      <HintPath>lib\HIDLibrary.dll</HintPath>
     </Reference>
     <Reference Include="LibUsbDotNet, Version=2.2.8.104, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Release\LibUsbDotNet.dll</HintPath>
+      <HintPath>lib\LibUsbDotNet.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
